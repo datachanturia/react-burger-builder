@@ -1,5 +1,7 @@
 
-# Demo version available here: https://dchan13-react-burger-builder.herokuapp.com/
+# Demo version available here: https://reactburger.herokuapp.com/
+
+-----------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
